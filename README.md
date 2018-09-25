@@ -1,0 +1,2 @@
+# cade-a-obra
+Trabalho de conclusão de curso apresentado como pré-requisito para a obtenção do título de pós-graduado (lato sensu) em desenvolvimento para dispositivos móveis pela Faculdade de Ciências Sociais Aplicadas || Term paper presented as a prerequisite for obtaining a specialization course (lato sensu) in development for mobile devices by the Faculdade de Ciências Sociais Aplicadas || Made with ❤️️ in Campina Grande
